@@ -5,7 +5,7 @@
 
 ## 👋 About This Repository
 
-This repository contains the documentation and supporting materials for my participation in **ITFAST 2025**, a competition organized by Politeknik Negeri Semarang (POLINES).
+This repository contains the documentation and supporting materials for my participation in **ITFAST 2025**, a competition organized by Politeknik Negeri Samarinda (POLINES).
 
 I achieved **1st Place in the English Visual Innovation Design category**. This repository serves as a personal archive of my achievement, creative process, design files, and competition documentation.
 
