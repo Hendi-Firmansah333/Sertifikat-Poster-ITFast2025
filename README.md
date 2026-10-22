@@ -14,7 +14,7 @@ I achieved **1st Place in the English Visual Innovation Design category**. This 
 | Category | Details |
 |---|---|
 | Competition | ITFAST 2025 |
-| Organizer | Politeknik Negeri Lampung (POLINELA) |
+| Organizer | Politeknik Negeri Samarinda (POLINES) |
 | Competition Field | Visual Poster Design |
 | Category | English Visual Innovation Design |
 | Achievement | **1st Place** |
